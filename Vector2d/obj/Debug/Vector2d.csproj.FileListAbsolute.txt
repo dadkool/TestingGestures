@@ -1,0 +1,4 @@
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Vector2d\bin\Debug\Vector2d.dll
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Vector2d\bin\Debug\Vector2d.pdb
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Vector2d\obj\Debug\Vector2d.dll
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Vector2d\obj\Debug\Vector2d.pdb

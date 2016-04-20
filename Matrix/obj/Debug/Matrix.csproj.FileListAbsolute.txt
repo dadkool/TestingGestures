@@ -1,0 +1,16 @@
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Matrix\bin\Debug\Matrix.dll
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Matrix\bin\Debug\Vector2d.dll
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Matrix\bin\Debug\Vector2d.pdb
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Matrix\obj\Debug\Matrix.dll
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Matrix\obj\Debug\Matrix.pdb
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Matrix\bin\Debug\Vector3d.dll
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Week 3\Transform\Transformation\Matrix\bin\Debug\Vector3d.pdb
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Homework\Week 3\Transform\Transformation\Matrix\bin\Debug\Matrix.dll
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Homework\Week 3\Transform\Transformation\Matrix\bin\Debug\Matrix.pdb
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Homework\Week 3\Transform\Transformation\Matrix\bin\Debug\Vector2d.dll
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Homework\Week 3\Transform\Transformation\Matrix\bin\Debug\Vector2d.pdb
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Homework\Week 3\Transform\Transformation\Matrix\obj\Debug\Matrix.csprojResolveAssemblyReference.cache
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Homework\Week 3\Transform\Transformation\Matrix\obj\Debug\Matrix.dll
+C:\Users\Daddy Kool\Desktop\School\Jaar 3\Computer Graphics\Homework\Week 3\Transform\Transformation\Matrix\obj\Debug\Matrix.pdb
